@@ -1,0 +1,25 @@
+Version [1.0.211127]:
+Release date: 2021/11/27
+- change the view of all methods in server.UI.DisplayReport
+- Add some missing specifications
+- fix bug then play video games
+
+Version [1.0.211122]:
+Release date: 2021/11/22
+- User in StockServer.ViewTopEarners() now is sorted based on User's balance
+instead of User's profit (this was pointed out by Mr.Dang Dinh Quan in the tutorial)
+- Add some missing specifications
+- Add tag @version to all classes
+- Fix bugs in client.StockClient
+- client.StockClient no longer prints the stack trace when an exception occurs. Instead, it shows
+the exception message now (this was pointed out by Mr.Dang Dinh Quan in the tutorial)
+
+Version [1.0.211121]:
+Release date: 2021/11/21
+- Add overloading method: line(String) for UI.DisplayReport
+- Add some missing specifications
+- Goodbye bugs and sleep after a week of deadlines (ofc not sleep for 1 day, i'm not a method)
+
+Version [1.0.211120]:
+Release date: 2021/11/20
+- First release
